@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+background-color: yellow;
+background-attachment: fixed;
+justify-content: auto;
+align-items: center;
+box-shadow: 0 0 30px rgba(0,0,0,.5);
+}
+fieldset{
+    padding: 1rem;
+}
